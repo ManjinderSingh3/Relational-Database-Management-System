@@ -1,0 +1,2 @@
+monitor_id	<->	monitor_name	<->	email	<->	phoneNumber
+1	<->	Aditya	<->	aditya@gmail.com	<->	4567

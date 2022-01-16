@@ -1,0 +1,3 @@
+student_id	<->	student_name	<->	email
+1	<->		<->	Manjinder	<->	manjinder@gmail.com	<->	1234
+2	<->		<->	Manjinder	<->	manjinder@gmail.com	<->	98765

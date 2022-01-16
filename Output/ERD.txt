@@ -1,0 +1,1 @@
+monitor1	<==>	monitor_id INT	<->	monitor_name VARCHAR	<->	email VARCHAR	<->	phoneNumber VARCHAR	<->	PRIMARY_KEY (monitor_id);

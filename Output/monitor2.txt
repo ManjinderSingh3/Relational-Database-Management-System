@@ -1,0 +1,2 @@
+monitor_id	<->	monitor_name	<->	email	<->	phoneNumber
+1	<->	Manjinder	<->	manjinder@gmail.com	<->	987654321
